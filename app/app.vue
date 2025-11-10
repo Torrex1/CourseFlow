@@ -3,7 +3,7 @@ const layout = "default";
 </script>
 
 <template>
-	<NuxtLayout :name="layout">
-		<NuxtPage />
-	</NuxtLayout>
+    <NuxtLayout :name="layout">
+        <NuxtPage />
+    </NuxtLayout>
 </template>
